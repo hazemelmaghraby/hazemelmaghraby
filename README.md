@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Hazem 👋
 
-<!--
-**hazemelmaghraby/hazemelmaghraby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer (React.js, Node.js)  
+🚀 Building developer platforms & real-world apps  
+📍 Based in Egypt  
 
-Here are some ideas to get you started:
+## 🔥 Projects
+- Developer Portfolio Platform (React + Firebase)
+- Contact Sync App (Expo + Firebase)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Frontend: React, Tailwind
+- Backend: Node.js, Firebase
+- Tools: Git, GitHub, Vite
+
+## 📫 Contact Me
+- Email: your@email.com
+- LinkedIn: your link

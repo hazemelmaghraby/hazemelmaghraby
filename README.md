@@ -5,14 +5,16 @@
 📍 Based in Egypt  
 
 ## 🔥 Projects
+- Nextrix: Next Generation Projects : Massive Employees Showcase
 - Developer Portfolio Platform (React + Firebase)
 - Contact Sync App (Expo + Firebase)
+- DRE.$: Projects Managing System For Companies
 
 ## 🛠 Tech Stack
-- Frontend: React, Tailwind
+- Frontend: React, Tailwind, Pure Javascript, Bootstrap
 - Backend: Node.js, Firebase
 - Tools: Git, GitHub, Vite
 
 ## 📫 Contact Me
-- Email: your@email.com
-- LinkedIn: your link
+- Email: hazemelmaghraby.work@gmail.com
+- LinkedIn: www.linkedin.com/in/hazem-elmaghraby

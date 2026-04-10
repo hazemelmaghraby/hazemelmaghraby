@@ -1,6 +1,7 @@
-# Hi, I'm Hazem 👋
+# Hey there👋
+My name is Hazem Muhammed - Frontend & Desktop Applications Developer
 
-💻 Full-Stack Developer (React.js, Node.js)  
+💻 MERN-Stack Developer (React.js, Node.js)  
 🚀 Building developer platforms & real-world apps  
 📍 Based in Egypt  
 
